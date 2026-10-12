@@ -19,7 +19,7 @@
 | [10x 74hc00](https://www.aliexpress.com/item/1005006186781850.html?spm=a2g0o.cart.0.0.202b38daBqYS5y&mp=1&pdp_npi=6@dis!AUD!AUD%208.11!AUD%202.69!!AUD%202.69!!!@2101c4b817917647332913856e0e42!12000036217497113!ct!AU!8282893199!!1!0!) | NAND gates | 1 | $1.49 | $1.49 | [Aliexpress](https://www.aliexpress.com/item/1005006186781850.html?spm=a2g0o.cart.0.0.202b38daBqYS5y&mp=1&pdp_npi=6@dis!AUD!AUD%208.11!AUD%202.69!!AUD%202.69!!!@2101c4b817917647332913856e0e42!12000036217497113!ct!AU!8282893199!!1!0!) |
 | [20x micro slide switches](https://www.aliexpress.com/item/1005003938407295.html?spm=a2g0o.cart.0.0.202b38daBqYS5y&mp=1&pdp_npi=6@dis!AUD!AUD%203.62!AUD%203.62!!AUD%203.62!!!@2101c4b817917647332913856e0e42!12000053184498269!ct!AU!8282893199!!1!0!&pdp_ext_f=%7B%22cart2PdpParams%22:%7B%22pdpBusinessMode%22:%22retail%22%7D%7D) | Representing the binary numbers | 1 | $1.49 | $1.49 | [Aliexpress](https://www.aliexpress.com/item/1005003938407295.html?spm=a2g0o.cart.0.0.202b38daBqYS5y&mp=1&pdp_npi=6@dis!AUD!AUD%203.62!AUD%203.62!!AUD%203.62!!!@2101c4b817917647332913856e0e42!12000053184498269!ct!AU!8282893199!!1!0!&pdp_ext_f=%7B%22cart2PdpParams%22:%7B%22pdpBusinessMode%22:%22retail%22%7D%7D) |
 | **Parts subtotal** | — | — | — | **$20.86** | — |
-| **Tax & shipping** | — | — | — | **$8.00** | — |
-| **Total** | — | — | — | **$28.86** | — |
+| **Tax & shipping** | — | — | — | **$13.82** | — |
+| **Total** | — | — | — | **$34.68** | — |
 
-$1.14 left of the tier's funding.
+**$4.68 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
